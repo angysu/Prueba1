@@ -19,7 +19,7 @@
                 misesion.invalidate();
                 out.print("Sesion cerrada para: "+usuarioSesion);
             }else{
-                out.print("sesion cerrada");
+                out.print("La sesion esta cerrada");
             }
         %>
     </body>
